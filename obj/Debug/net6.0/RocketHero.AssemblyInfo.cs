@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RocketHero")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbccc444b848cc75087baee80e07ae1a87048967")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f4de144b12628f7cb761f6c62ecba541e1ab69c")]
 [assembly: System.Reflection.AssemblyProductAttribute("RocketHero")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RocketHero")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
