@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dX8y40bovBz4x5PhuTupZS/571WfYmsZlwY3kz9cwYFbM6K+MhpOIIhQ6szJjt6OijDMFqbNmSRaQ+1BlhfcA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ilove\\Documents\\code\\monogames\\RocketHero\\RocketHero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilove\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\ilove\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\ilove\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\ilove\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\ilove\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\ilove\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
