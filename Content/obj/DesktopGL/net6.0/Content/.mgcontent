@@ -4,9 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>c:/Users/ilove/Documents/code/monogames/RocketHero/Content/rocket.png</File>
+    <File>c:/Users/ilove/Documents/code/monogames/RocketHero/Content/rocket2.png</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
+    <File>rocket.png</File>
   </DestFiles>
 </SourceFileCollection>

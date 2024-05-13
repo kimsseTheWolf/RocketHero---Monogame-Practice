@@ -56,7 +56,7 @@ public class Game1 : Game
 
         // TODO: Add your drawing code here
         _spriteBatch.Begin();
-        rocket.Draw(_spriteBatch);
+        rocket.Draw(_spriteBatch, 1f);
         _spriteBatch.End();
 
         base.Draw(gameTime);

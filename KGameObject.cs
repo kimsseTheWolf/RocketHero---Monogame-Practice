@@ -52,7 +52,9 @@ public class KGameObject
         return;
     }
 
-    public virtual void Draw(SpriteBatch spriteBatch) {
+    public virtual void Draw(SpriteBatch spriteBatch, float scale = 1f) {
+        collider.Width = (int)(collider.Width * scale);
+        collider.Height = (int)(collider.Height * scale);
         spriteBatch.Draw(texture, collider, Color.White);
     }
 

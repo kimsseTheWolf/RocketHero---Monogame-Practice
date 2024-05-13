@@ -24,3 +24,4 @@ c:\Users\ilove\Documents\code\monogames\RocketHero\obj\Debug\net6.0\refint\Rocke
 c:\Users\ilove\Documents\code\monogames\RocketHero\obj\Debug\net6.0\RocketHero.pdb
 c:\Users\ilove\Documents\code\monogames\RocketHero\obj\Debug\net6.0\RocketHero.genruntimeconfig.cache
 c:\Users\ilove\Documents\code\monogames\RocketHero\obj\Debug\net6.0\ref\RocketHero.dll
+c:\Users\ilove\Documents\code\monogames\RocketHero\obj\Debug\net6.0\RocketHero.sourcelink.json
