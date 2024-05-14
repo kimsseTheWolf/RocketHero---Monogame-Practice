@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ilove\\Documents\\code\\monogames\\RocketHero\\RocketHero.csproj": {}
+    "C:\\Users\\ilove\\Documents\\code\\monogames\\RocketHero\\RocketHero.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ilove\\Documents\\code\\monogames\\RocketHero\\RocketHero.csproj": {
+    "C:\\Users\\ilove\\Documents\\code\\monogames\\RocketHero\\RocketHero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ilove\\Documents\\code\\monogames\\RocketHero\\RocketHero.csproj",
+        "projectUniqueName": "C:\\Users\\ilove\\Documents\\code\\monogames\\RocketHero\\RocketHero.csproj",
         "projectName": "RocketHero",
-        "projectPath": "c:\\Users\\ilove\\Documents\\code\\monogames\\RocketHero\\RocketHero.csproj",
+        "projectPath": "C:\\Users\\ilove\\Documents\\code\\monogames\\RocketHero\\RocketHero.csproj",
         "packagesPath": "C:\\Users\\ilove\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ilove\\Documents\\code\\monogames\\RocketHero\\obj\\",
+        "outputPath": "C:\\Users\\ilove\\Documents\\code\\monogames\\RocketHero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilove\\AppData\\Roaming\\NuGet\\NuGet.Config",

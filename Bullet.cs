@@ -17,7 +17,8 @@ public class Bullet : KGameObject
 
     public override void Update(GameTime gameTime)
     {
-        collider.Y -= (int)(300 * gameTime.ElapsedGameTime.Seconds);
+        collider.Y -= (int)(300 * gameTime.ElapsedGameTime.TotalSeconds);
+        Console.WriteLine("Bullet updated: " + collider.Y);
         base.Update(gameTime);
     }
 

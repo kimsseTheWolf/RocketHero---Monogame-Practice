@@ -12,6 +12,7 @@ public class Game1 : Game
     private SpriteBatch _spriteBatch;
     private Texture2D rocketTexture;
     private Texture2D bulletTexture;
+    private bool created = false;
 
     Rocket rocket;
     List<Bullet> bullets;
@@ -51,9 +52,14 @@ public class Game1 : Game
             Exit();
         
         // global key binding
-        if (kstate.IsKeyDown(Keys.Space)) {
+        if (kstate.IsKeyDown(Keys.Space) && !created) {
             Console.WriteLine("Space pressed");
             bullets.Add(new Bullet(_graphics, bulletTexture, new Vector2(rocket.GetCollider().X + rocket.GetCollider().Width / 2, rocket.GetCollider().Y)));
+            created = true;
+        }
+
+        if (kstate.IsKeyUp(Keys.Space)) {
+            created = false;
         }
 
         // TODO: Add your update logic here
@@ -82,6 +88,10 @@ public class Game1 : Game
         // TODO: Add your drawing code here
         _spriteBatch.Begin();
         rocket.Draw(_spriteBatch, 1f);
+        // iterate to draw the bullets
+        for (var i = 0; i < bullets.Count; i++) {
+            bullets[i].Draw(_spriteBatch);
+        }
         _spriteBatch.End();
 
         base.Draw(gameTime);
